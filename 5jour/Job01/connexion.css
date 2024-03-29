@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+header{
+    background: rgb(160, 160, 252);
+    padding-top:  30px;
+}
+header button{
+    float: right;
+    gap: 20px;
+}
